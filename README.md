@@ -71,13 +71,6 @@ http://localhost:3000
 | Move Right    | `D`           |
 | Shoot         | `Mouse Click` |
 
-## 📸 Screenshots
-
-Add screenshots of the game here:
-
-```md
-![Game Screenshot](./screenshots/game.png)
-```
 
 ## 🧠 About the Project
 
